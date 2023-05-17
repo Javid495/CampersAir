@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "createdAt": "2023-05-04",
+      "cc": "46464",
+      "nombres": "juan",
+      "apellidos": "cacere",
+      "email": "tatianacalderon10@gmail.com",
+      "telefono": "7878787",
+      "fechanac": "2023-05-02",
+      "id": 3
+    }
+  ],
+  "contactos": [],
+  "flota": [],
+  "personal": [],
+  "ventas": [],
+  "detalleventas": [],
+  "trayectos": []
+}
